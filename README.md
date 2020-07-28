@@ -1,4 +1,4 @@
-# Teste prático enContact - Frontend
+# Teste prático WiiD - Frontend
 
 Obrigado por se interessar em participar do teste para desenvolvedor Front-end da [WiiD](https://wi-id.com).
 
