@@ -53,7 +53,7 @@ O teste consiste em criar uma pequena aplicação, seguindo os itens abaixo:
 
 ## Finalizando
 
-Qualquer dúvida, fale conosco.
+Qualquer dúvida, fale conosco.  
 Fique livre para utilizar a sua criatividade no desenvolvimento dos mockups pode utilziar styles e cores que achar melhor. 
 
 ## Agradecimentos
