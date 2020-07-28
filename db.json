@@ -1,0 +1,143 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Conta 1",
+      "subMenus": [
+        { "id": 11, "name": "Caixa de entrada" },
+        { "id": 12, "name": "Caixa de saída" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Conta 2",
+      "subMenus": [{ "id": 22, "name": "Inbox" }]
+    },
+    {
+      "id": 3,
+      "name": "Conta 3",
+      "subMenus": [
+        { "id": 33, "name": "Entrada" },
+        { "id": 34, "name": "Vip" },
+        { "id": 35, "name": "Lixo" }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": 11,
+      "subMenuItems": [
+        {
+          "id": "1",
+          "name": "Joao Cabral",
+          "subject": "Recebeu minha mensagem?",
+          "owner": "JC",
+          "users": ["JC", "MN", "CC"]
+        },
+        {
+          "id": "2",
+          "name": "Maria Nadir",
+          "subject": "Bom dia",
+          "owner": "MN",
+          "users": ["MN"]
+        },
+        {
+          "id": "3",
+          "name": "Fernando Henrique",
+          "subject": "Aguardo retorno",
+          "owner": "FH",
+          "users": ["FH", "CV", "MC", "BB"]
+        },
+        {
+          "id": "4",
+          "name": "Carlos Vaz",
+          "subject": "Lembrete",
+          "owner": "CV",
+          "users": ["CV", "FH"]
+        },
+        {
+          "id": "5",
+          "name": "Bruno Baxtos",
+          "subject": "Aviso",
+          "owner": "BB",
+          "users": ["BB"]
+        },
+        {
+          "id": "6",
+          "name": "Mauro Marins",
+          "subject": "Resposta daquela chamada do final de semana",
+          "owner": "MM",
+          "users": ["MM", "BB"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "subMenuItems": [
+        {
+          "id": "7",
+          "name": "Joao Cunha",
+          "subject": "Recebeu a mensagem?",
+          "owner": "JC",
+          "users": ["JC", "CC"]
+        },
+        {
+          "id": "8",
+          "name": "Gaby Silva",
+          "subject": "Boa noite",
+          "owner": "GS",
+          "users": ["GS"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "subMenuItems": [
+        {
+          "id": "9",
+          "name": "Miguel Soares",
+          "subject": "Proposta?",
+          "owner": "MS",
+          "users": ["MS", "MN", "CC", "MC"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "subMenuItems": []
+    },
+    {
+      "id": 34,
+      "subMenuItems": [
+        {
+          "id": "10",
+          "name": "Bruna Marquezine",
+          "subject": "Contrato",
+          "owner": "BM",
+          "users": ["BM", "MN", "CC", "GL"]
+        },
+        {
+          "id": "11",
+          "name": "Pedro Henrique Borges",
+          "subject": "RE: Comentarios do contrato",
+          "owner": "PH",
+          "users": ["PH", "FB"]
+        },
+        {
+          "id": "12",
+          "name": "Gabriela Silva",
+          "subject": "Comprovante",
+          "owner": "GS",
+          "users": ["FH", "CV"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "subMenuItems": []
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
